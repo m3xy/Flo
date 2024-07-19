@@ -5,16 +5,15 @@ Welcome to Flo, the Rhythmic Rail Shooter!
 
 INSTALLATION
 ------------
-1. Install Processing
+1. Install the Processing IDE
 
 
 RUNNING THE GAME
 ----------------
-1. Open Processing
-2. Open the game directory
-3. Select Game.pde
-4. Click on the Run button
-5. Have fun!
+1. Open the Processing IDE
+2. Open the game (File -> Open -> "game/game.pde")
+3. Click on the Run button
+4. Have fun!
 
 
 RULES AND MECHANICS
