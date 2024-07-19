@@ -5,14 +5,16 @@ Welcome to Flo, the Rhythmic Rail Shooter!
 
 INSTALLATION
 ------------
-1. Extract Flo.zip
+1. Install Processing
 
 
 RUNNING THE GAME
 ----------------
-1. Navigate to the Flo directory
-2. Run Flo.exe
-3. Have fun!
+1. Open Processing
+2. Open the game directory
+3. Select Game.pde
+4. Click on the Run button
+5. Have fun!
 
 
 RULES AND MECHANICS
@@ -62,4 +64,4 @@ Esc - Exit
 
 
 ---------------------------------------------------
-Flo (Version 1.0), Marcus Yiu Yeung Yip (190019931)
+Flo (Version 2.0), Marcus Yiu Yeung Yip (190019931)
